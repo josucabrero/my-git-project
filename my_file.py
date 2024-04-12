@@ -6,4 +6,4 @@ def hi_there():
     print("Hi")
 
 def hi_there():
-    print("Hi")
+    print("Update readme for merge conflict demo")
